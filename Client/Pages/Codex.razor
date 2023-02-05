@@ -494,9 +494,9 @@ else
 
     private static string GetIconLocation2(string name)
     {
-        string src = $"images/Icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "")}_256.png";
+        string src = $"images/Icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "").ToLower()}_256.png";
 
-        string markup = $"<img src={src.ToLower()} />";
+        string markup = $"<img src={src} />";
 
         return markup;
     }
