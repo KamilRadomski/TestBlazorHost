@@ -1,39 +1,37 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">testhost</a>
-        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+﻿<link rel="stylesheet" type="text/css" href="../wwwroot/css/augmented-ui/augmented-ui.min.css" />
+
+<div data-augmented-ui="tl-clip tr-clip both" class="aug-navbar">>
+    <a class="aug-navbar-brand" href="">Satisfactory Automator</a>
+    <nav data-augmented-ui-reset class="aug-navbar-column">
+            <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="" Match="NavLinkMatch.All">
+                    <span class="aug-oi oi-home" aria-hidden="true"></span> Home
+                </NavLink>
+            </div>
+            <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="grapher" Match="NavLinkMatch.All">
+                    <span class="aug-oi oi-fork" aria-hidden="true"></span> Grapher
+                </NavLink>
+            </div>
+            <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="permutator" Match="NavLinkMatch.All">
+                    <span class="aug-oi oi-spreadsheet" aria-hidden="true"></span> Permutator
+                </NavLink>
+            </div>
+            <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="codex">
+                    <span class="aug-oi oi-aperture" aria-hidden="true"></span> Codex
+                </NavLink>
+            </div>
+        <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="buildings">
+                    <span class="aug-oi oi-calendar" aria-hidden="true"></span> Buildings
+                </NavLink>
+            </div>
+            <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-2-clip-x border" class="aug-navbar-item">
+                <NavLink class="aug-navlink" href="settings">
+                    <span class="aug-oi oi-cog" aria-hidden="true"></span> Settings
+                </NavLink>
+            </div>
+        </nav>
     </div>
-</div>
-
-<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="oi oi-home" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="oi oi-plus" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="fetchdata">
-                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
-            </NavLink>
-        </div>
-    </nav>
-</div>
-
-@code {
-    private bool collapseNavMenu = true;
-
-    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
-}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataParser\\wwwroot\\Data\\docs.json",
+      "PackagePath": "staticwebassets\\Data\\docs.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SatisfactoryProductionator.DataParser.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SatisfactoryProductionator.DataParser.props",
+      "PackagePath": "build\\SatisfactoryProductionator.DataParser.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SatisfactoryProductionator.DataParser.props",
+      "PackagePath": "buildMultiTargeting\\SatisfactoryProductionator.DataParser.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SatisfactoryProductionator.DataParser.props",
+      "PackagePath": "buildTransitive\\SatisfactoryProductionator.DataParser.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

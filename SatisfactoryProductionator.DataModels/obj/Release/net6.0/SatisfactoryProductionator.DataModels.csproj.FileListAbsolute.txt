@@ -1,0 +1,12 @@
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\bin\Release\net6.0\SatisfactoryProductionator.DataModels.deps.json
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\bin\Release\net6.0\SatisfactoryProductionator.DataModels.dll
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\bin\Release\net6.0\SatisfactoryProductionator.DataModels.pdb
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.csproj.AssemblyReference.cache
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.AssemblyInfoInputs.cache
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.AssemblyInfo.cs
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.dll
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\refint\SatisfactoryProductionator.DataModels.dll
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\SatisfactoryProductionator.DataModels.pdb
+C:\Users\radka\Desktop\SatisfactoryAutomator\SatisfactoryProductionator.DataModels\obj\Release\net6.0\ref\SatisfactoryProductionator.DataModels.dll

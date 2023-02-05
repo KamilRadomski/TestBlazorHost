@@ -1,7 +1,31 @@
+﻿@import url('augmented-ui/augmented-ui.min.css');
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+@import url("https://fonts.googleapis.com/css?family=Barlow|Tomorrow:400,700&display=swap");
+
+
+
+
+
+:root {
+    --myblue: rgb(33, 147, 227);
+    --myblue75: rgba(33, 147, 227, 0.75);
+    --myblue50: rgba(33, 147, 227, 0.5);
+    --myblueclear: rgba(33, 147, 227,0.5);
+    --myhighlightblue: rgba(164,218,255,0.25);
+    --myhoverblue: rgb(153 199 229);
+    --myhoverblue50: rgba(153, 199, 229, .5);
+    --myhoverblueclear: rgba(153, 199, 229, 0.5);
+    --myhoverblueclear2: rgba(153, 199, 229, 0.6);
+	--mydarkblue: rgb(6, 55, 86);
+
+    --icon1: url('../images/icons/adaptivecontrolunit_256.png');
+}
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*background: black;*/
+    background-size: cover;
+    background-image: url('../images/background.png');
 }
 
 h1:focus {
@@ -16,10 +40,6 @@ a, .btn-link {
     color: #fff;
     background-color: #1b6ec2;
     border-color: #1861ac;
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 .content {
@@ -67,35 +87,48 @@ a, .btn-link {
         content: "An error has occurred."
     }
 
-.loading-progress {
+
+.main-panel {
+    margin-left: 264px;
     position: relative;
-    display: block;
-    width: 8rem;
-    height: 8rem;
-    margin: 20vh auto 1rem auto;
+    top: 14px;
+    /*border: 1px solid red;*/
+    /*width: 80%;*/
+    margin-right: 22px;
+    height: 96vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    background: inherit;
+    margin-bottom: 0px;
 }
 
-    .loading-progress circle {
-        fill: none;
-        stroke: #e0e0e0;
-        stroke-width: 0.6rem;
-        transform-origin: 50% 50%;
-        transform: rotate(-90deg);
-    }
 
-        .loading-progress circle:last-child {
-            stroke: #1b6ec2;
-            stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
-            transition: stroke-dasharray 0.05s ease-in-out;
-        }
-
-.loading-progress-text {
-    position: absolute;
-    text-align: center;
-    font-weight: bold;
-    inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
+::-webkit-scrollbar {
+    width: 1em;
 }
 
-    .loading-progress-text:after {
-        content: var(--blazor-load-percentage-text, "Loading");
-    }
+::-webkit-scrollbar-track {
+    background: var(--myhoverblueclear);
+    border-radius: 100vh;
+    margin-block: 5em;
+	margin-block-start: 7em;
+}
+
+::-webkit-scrollbar-thumb {
+    border: 3px solid rgba(255, 255, 255, .15);
+    border-radius: 100vh;
+    background: var(--myblueclear);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--myblue);
+}
+
+::-webkit-scrollbar-track:hover {
+    background: var(--myhoverblueclear2);
+}
+
+.no-flow {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}

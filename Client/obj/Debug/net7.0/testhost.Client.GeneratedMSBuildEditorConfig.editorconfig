@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/radka/Desktop/testhost/Client/Pages/Buildings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVpbGRpbmdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/radka/Desktop/testhost/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/radka/Desktop/testhost/Client/Pages/Grapher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhcGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/radka/Desktop/testhost/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/radka/Desktop/testhost/Client/Pages/Permutator.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVybXV0YXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/radka/Desktop/testhost/Client/Pages/Settings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/radka/Desktop/testhost/Client/Shared/SurveyPrompt.razor]
@@ -39,6 +55,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/radka/Desktop/testhost/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/radka/Desktop/testhost/Client/Pages/Codex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iethuhiv5o
 
 [C:/Users/radka/Desktop/testhost/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

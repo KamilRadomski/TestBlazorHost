@@ -1,0 +1,15 @@
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.csproj.AssemblyReference.cache
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.AssemblyInfoInputs.cache
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.AssemblyInfo.cs
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.csproj.CoreCompileInputs.cache
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\bin\Debug\net6.0\SatisfactoryProductionator.DataConverter.deps.json
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\bin\Debug\net6.0\SatisfactoryProductionator.DataConverter.dll
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\bin\Debug\net6.0\SatisfactoryProductionator.DataConverter.pdb
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\bin\Debug\net6.0\SatisfactoryProductionator.DataModels.dll
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\bin\Debug\net6.0\SatisfactoryProductionator.DataModels.pdb
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.csproj.CopyComplete
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.dll
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\refint\SatisfactoryProductionator.DataConverter.dll
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\SatisfactoryProductionator.DataConverter.pdb
+C:\Users\radka\Desktop\testhost\SatisfactoryProductionator.DataConverter\obj\Debug\net6.0\ref\SatisfactoryProductionator.DataConverter.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SatisfactoryProductionator.DataParser.props" />
+</Project>

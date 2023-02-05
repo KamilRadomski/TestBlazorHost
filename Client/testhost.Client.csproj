@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SatisfactoryProductionator.DataConverter\SatisfactoryProductionator.DataConverter.csproj" />
+    <ProjectReference Include="..\SatisfactoryProductionator.DataManager\SatisfactoryProductionator.DataManager.csproj" />
+    <ProjectReference Include="..\SatisfactoryProductionator.DataModels\SatisfactoryProductionator.DataModels.csproj" />
+    <ProjectReference Include="..\SatisfactoryProductionator.DataParser\SatisfactoryProductionator.DataParser.csproj" />
     <ProjectReference Include="..\Shared\testhost.Shared.csproj" />
   </ItemGroup>
 

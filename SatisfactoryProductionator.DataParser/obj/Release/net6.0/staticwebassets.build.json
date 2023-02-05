@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KubkBg+enTD/Patj8U2Izn/7RJR6HNXVrXCckOtLNag=",
+  "Source": "SatisfactoryProductionator.DataParser",
+  "BasePath": "_content/SatisfactoryProductionator.DataParser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SatisfactoryProductionator.DataParser\\wwwroot",
+      "Source": "SatisfactoryProductionator.DataParser",
+      "ContentRoot": "C:\\Users\\radka\\Desktop\\SatisfactoryAutomator\\SatisfactoryProductionator.DataParser\\wwwroot\\",
+      "BasePath": "_content/SatisfactoryProductionator.DataParser",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\radka\\Desktop\\SatisfactoryAutomator\\SatisfactoryProductionator.DataParser\\wwwroot\\Data\\docs.json",
+      "SourceId": "SatisfactoryProductionator.DataParser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\radka\\Desktop\\SatisfactoryAutomator\\SatisfactoryProductionator.DataParser\\wwwroot\\",
+      "BasePath": "_content/SatisfactoryProductionator.DataParser",
+      "RelativePath": "Data/docs.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Data\\docs.json"
+    }
+  ]
+}

@@ -200,9 +200,44 @@
           "System.Text.Encodings.Web": "7.0.0"
         }
       },
+      "SatisfactoryProductionator.DataConverter/1.0.0": {
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "SatisfactoryProductionator.DataConverter.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataManager/1.0.0": {
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0",
+          "SatisfactoryProductionator.DataParser": "1.0.0"
+        },
+        "runtime": {
+          "SatisfactoryProductionator.DataManager.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataModels/1.0.0": {
+        "runtime": {
+          "SatisfactoryProductionator.DataModels.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataParser/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.2",
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "SatisfactoryProductionator.DataParser.dll": {}
+        }
+      },
       "testhost.Client/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.2",
+          "SatisfactoryProductionator.DataConverter": "1.0.0",
+          "SatisfactoryProductionator.DataManager": "1.0.0",
+          "SatisfactoryProductionator.DataModels": "1.0.0",
+          "SatisfactoryProductionator.DataParser": "1.0.0",
           "testhost.Shared": "1.0.0"
         },
         "runtime": {
@@ -410,6 +445,26 @@
       "sha512": "sha512-DaGSsVqKsn/ia6RG8frjwmJonfos0srquhw09TlT8KRw5I43E+4gs+/bZj4K0vShJ5H9imCuXupb4RmS+dBy3w==",
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
+    },
+    "SatisfactoryProductionator.DataConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SatisfactoryProductionator.DataManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SatisfactoryProductionator.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SatisfactoryProductionator.DataParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "testhost.Client/1.0.0": {
       "type": "project",

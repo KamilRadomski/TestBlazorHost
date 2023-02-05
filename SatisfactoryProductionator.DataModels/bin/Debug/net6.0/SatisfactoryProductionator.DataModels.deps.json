@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SatisfactoryProductionator.DataModels/1.0.0": {
+        "runtime": {
+          "SatisfactoryProductionator.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SatisfactoryProductionator.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

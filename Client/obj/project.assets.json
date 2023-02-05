@@ -476,6 +476,57 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "SatisfactoryProductionator.DataConverter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataConverter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataConverter.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0",
+          "SatisfactoryProductionator.DataParser": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataManager.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataModels.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataParser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.7",
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataParser.dll": {}
+        }
+      },
       "testhost.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -954,6 +1005,57 @@
         },
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "SatisfactoryProductionator.DataConverter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataConverter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataConverter.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0",
+          "SatisfactoryProductionator.DataParser": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataManager.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataModels.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataParser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.7",
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SatisfactoryProductionator.DataParser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SatisfactoryProductionator.DataParser.dll": {}
         }
       },
       "testhost.Shared/1.0.0": {
@@ -1813,6 +1915,26 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "SatisfactoryProductionator.DataConverter/1.0.0": {
+      "type": "project",
+      "path": "../SatisfactoryProductionator.DataConverter/SatisfactoryProductionator.DataConverter.csproj",
+      "msbuildProject": "../SatisfactoryProductionator.DataConverter/SatisfactoryProductionator.DataConverter.csproj"
+    },
+    "SatisfactoryProductionator.DataManager/1.0.0": {
+      "type": "project",
+      "path": "../SatisfactoryProductionator.DataManager/SatisfactoryProductionator.DataManager.csproj",
+      "msbuildProject": "../SatisfactoryProductionator.DataManager/SatisfactoryProductionator.DataManager.csproj"
+    },
+    "SatisfactoryProductionator.DataModels/1.0.0": {
+      "type": "project",
+      "path": "../SatisfactoryProductionator.DataModels/SatisfactoryProductionator.DataModels.csproj",
+      "msbuildProject": "../SatisfactoryProductionator.DataModels/SatisfactoryProductionator.DataModels.csproj"
+    },
+    "SatisfactoryProductionator.DataParser/1.0.0": {
+      "type": "project",
+      "path": "../SatisfactoryProductionator.DataParser/SatisfactoryProductionator.DataParser.csproj",
+      "msbuildProject": "../SatisfactoryProductionator.DataParser/SatisfactoryProductionator.DataParser.csproj"
+    },
     "testhost.Shared/1.0.0": {
       "type": "project",
       "path": "../Shared/testhost.Shared.csproj",
@@ -1823,6 +1945,10 @@
     "net7.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.2",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.2",
+      "SatisfactoryProductionator.DataConverter >= 1.0.0",
+      "SatisfactoryProductionator.DataManager >= 1.0.0",
+      "SatisfactoryProductionator.DataModels >= 1.0.0",
+      "SatisfactoryProductionator.DataParser >= 1.0.0",
       "testhost.Shared >= 1.0.0"
     ]
   },
@@ -1853,6 +1979,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataConverter\\SatisfactoryProductionator.DataConverter.csproj": {
+              "projectPath": "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataConverter\\SatisfactoryProductionator.DataConverter.csproj"
+            },
+            "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataManager\\SatisfactoryProductionator.DataManager.csproj": {
+              "projectPath": "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataManager\\SatisfactoryProductionator.DataManager.csproj"
+            },
+            "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataModels\\SatisfactoryProductionator.DataModels.csproj": {
+              "projectPath": "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataModels\\SatisfactoryProductionator.DataModels.csproj"
+            },
+            "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataParser\\SatisfactoryProductionator.DataParser.csproj": {
+              "projectPath": "C:\\Users\\radka\\Desktop\\testhost\\SatisfactoryProductionator.DataParser\\SatisfactoryProductionator.DataParser.csproj"
+            },
             "C:\\Users\\radka\\Desktop\\testhost\\Shared\\testhost.Shared.csproj": {
               "projectPath": "C:\\Users\\radka\\Desktop\\testhost\\Shared\\testhost.Shared.csproj"
             }

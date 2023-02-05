@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SatisfactoryProductionator.DataConverter/1.0.0": {
+        "dependencies": {
+          "SatisfactoryProductionator.DataModels": "1.0.0"
+        },
+        "runtime": {
+          "SatisfactoryProductionator.DataConverter.dll": {}
+        }
+      },
+      "SatisfactoryProductionator.DataModels/1.0.0": {
+        "runtime": {
+          "SatisfactoryProductionator.DataModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SatisfactoryProductionator.DataConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SatisfactoryProductionator.DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
