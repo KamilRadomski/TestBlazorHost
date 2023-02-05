@@ -51,7 +51,7 @@ else
 
     /*Main Panel*/
     <div data-augmented-ui-reset class="main-panel">
-        <img src="images/icons/adaptivecontrolunit_256.png" />
+        <img src="Icons/adaptivecontrolunit_256.png" />
         @foreach (var group in GroupItems())
         {
             <div data-augmented-ui="tl-clip tr-2-clip-x br-clip bl-clip border" class="main-panel-category">
@@ -62,7 +62,11 @@ else
                 {
                     <button class="main-panel-category-button" type="button" @onclick="@(() => AddItemRecipe(@item.DisplayName!))">
                         <div data-augmented-ui="tl-clip tr-2-clip-y br-clip bl-2-clip-x border" class="main-panel-category-button-item">
-                            <img src=@GetIconLocation(item.DisplayName!) alt=@item.DisplayName />
+
+                            <img src=@GetIconLocation(item.DisplayName!) />
+                           
+
+
                             <div class="main-panel-category-button-item-name">
                                 @FormatDisplayName(item.DisplayName!)
                             </div>
@@ -484,7 +488,7 @@ else
     {
       
 
-        return $"images/icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "")}_256.png";
+        return $"/Icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "")}_256.png";
     }
 
 
