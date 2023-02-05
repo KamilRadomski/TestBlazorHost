@@ -203,7 +203,7 @@
       "SatisfactoryProductionator.DataModels.dll": "sha256-d6eoslS1\/37mjJiZNxAHtYdxF+E1KpRY07iQQ1O1MJE=",
       "SatisfactoryProductionator.DataParser.dll": "sha256-OwjrJnMomsQqNXFMnBmrSl077vNYGotJtPW6QwUgMNo=",
       "testhost.Shared.dll": "sha256-+GfPSwtVinvP7F+8wMiUsrJL1N7tGaobBjlYKIdWeT4=",
-      "testhost.Client.dll": "sha256-72EewM366A1amRGoOgWxIL8czyr99+DEPeuHIMDmKxI="
+      "testhost.Client.dll": "sha256-PdeWRUhmodbUXm2vM1dPseXiWFE7+CLXbNtT4sMJhQ8="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -214,7 +214,7 @@
       "SatisfactoryProductionator.DataModels.pdb": "sha256-gILqvHhOHrCtwzbwjpnh0VsbUJ2a9IE4BsdoJKmt7N4=",
       "SatisfactoryProductionator.DataParser.pdb": "sha256-V9crD2\/7EoXewm9id+eL\/esHHl\/R9kDNmqI3iYRsQS0=",
       "testhost.Shared.pdb": "sha256-NgH\/FdSme5BSwstJcLQh5TDJ5ipzR2PmmFEiXMWpbKE=",
-      "testhost.Client.pdb": "sha256-zJdMuJm48RtF7Ufr4WAcJTSvwhmgye\/xoU3LRovJth8="
+      "testhost.Client.pdb": "sha256-tjB2SPdfA9PFUQd2hyp9\/kU34YWlzxv2YUB+IuUJ9Uw="
     },
     "runtime": {
       "dotnet.7.0.2.7eoiopornp.js": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
