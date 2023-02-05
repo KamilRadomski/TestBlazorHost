@@ -63,8 +63,9 @@ else
                     <button class="main-panel-category-button" type="button" @onclick="@(() => AddItemRecipe(@item.DisplayName!))">
                         <div data-augmented-ui="tl-clip tr-2-clip-y br-clip bl-2-clip-x border" class="main-panel-category-button-item">
 
-                            <img src=@GetIconLocation(item.DisplayName!) />
-                           
+                            @*<img src=@GetIconLocation(item.DisplayName!) />*@
+                            
+                            @((MarkupString)GetIconLocation2(item.DisplayName!))
 
 
                             <div class="main-panel-category-button-item-name">
@@ -486,9 +487,18 @@ else
 
     private static string GetIconLocation(string name)
     {
-      
+
 
         return $"/Icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "")}_256.png";
+    }
+
+    private static string GetIconLocation2(string name)
+    {
+        string src = $"/Icons/{name.Replace(" ", "").Replace("-", "").Replace(".", "")}_256.png";
+
+        string markup = $"<img src={src} />";
+
+        return markup;
     }
 
 

@@ -81,6 +81,634 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\adaptivecontrolunit_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\adaptivecontrolunit_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ailimiter_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ailimiter_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\alcladaluminumsheet_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\alcladaluminumsheet_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\aliendnacapsule_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\aliendnacapsule_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\alienprotein_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\alienprotein_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\aluminasolution_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\aluminasolution_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\aluminumcasing_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\aluminumcasing_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\aluminumingot_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\aluminumingot_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\aluminumscrap_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\aluminumscrap_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\assembler_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\assembler_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\assemblydirectorsystem_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\assemblydirectorsystem_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\automatedwiring_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\automatedwiring_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\baconagaric_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\baconagaric_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\battery_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\battery_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\bauxite_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\bauxite_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\beacon_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\beacon_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\berylnut_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\berylnut_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\biomass_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\biomass_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\biomassburner_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\biomassburner_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\blackpowder_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\blackpowder_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\blender_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\blender_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\bluepowerslug_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\bluepowerslug_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\cable_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\cable_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\cateriumingot_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\cateriumingot_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\cateriumore_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\cateriumore_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\circuitboard_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\circuitboard_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\clusternobelisk_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\clusternobelisk_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\coal_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\coal_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\coalgenerator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\coalgenerator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\colorcartridge_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\colorcartridge_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\compactedcoal_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\compactedcoal_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\computer_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\computer_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\concrete_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\concrete_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\constructor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\constructor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\coolingsystem_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\coolingsystem_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\copperingot_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\copperingot_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\copperore_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\copperore_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\copperpowder_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\copperpowder_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\coppersheet_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\coppersheet_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\crudeoil_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\crudeoil_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\crystaloscillator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\crystaloscillator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\electromagneticcontrolrod_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\electromagneticcontrolrod_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\emptycanister_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\emptycanister_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\emptyfluidtank_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\emptyfluidtank_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\encasedindustrialbeam_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\encasedindustrialbeam_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\encasedplutoniumcell_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\encasedplutoniumcell_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\encaseduraniumcell_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\encaseduraniumcell_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\explosiverebar_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\explosiverebar_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\fabric_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\fabric_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\flowerpetals_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\flowerpetals_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\foundry_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\foundry_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\fuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\fuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\fuelgenerator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\fuelgenerator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\fusedmodularframe_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\fusedmodularframe_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\gasfilter_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\gasfilter_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\gasnobelisk_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\gasnobelisk_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\geothermalgenerator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\geothermalgenerator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\hatcherremains_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\hatcherremains_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\heatsink_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\heatsink_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\heavymodularframe_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\heavymodularframe_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\heavyoilresidue_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\heavyoilresidue_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\highspeedconnector_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\highspeedconnector_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\hogremains_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\hogremains_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\homingrifleammo_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\homingrifleammo_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\iodineinfusedfilter_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\iodineinfusedfilter_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ironingot_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ironingot_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ironore_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ironore_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ironplate_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ironplate_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ironrebar_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ironrebar_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\ironrod_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\ironrod_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\leaves_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\leaves_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\limestone_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\limestone_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\liquidbiofuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\liquidbiofuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\magneticfieldgenerator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\magneticfieldgenerator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\manufacturer_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\manufacturer_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\medicinalinhaler_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\medicinalinhaler_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\minermk1_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\minermk1_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\minermk2_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\minermk2_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\minermk3_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\minermk3_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\modularengine_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\modularengine_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\modularframe_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\modularframe_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\motor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\motor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\mycelia_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\mycelia_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nitricacid_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nitricacid_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nitrogengas_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nitrogengas_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nobelisk_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nobelisk_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nonfissileuranium_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nonfissileuranium_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nuclearpasta_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nuclearpasta_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nuclearpowerplant_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nuclearpowerplant_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\nukenobelisk_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\nukenobelisk_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\oilextractor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\oilextractor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedaluminasolution_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedaluminasolution_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedfuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedfuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedheavyoilresidue_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedheavyoilresidue_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedliquidbiofuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedliquidbiofuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagednitricacid_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagednitricacid_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagednitrogengas_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagednitrogengas_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedoil_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedoil_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedsulfuricacid_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedsulfuricacid_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedturbofuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedturbofuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packagedwater_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packagedwater_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\packager_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\packager_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\paleberry_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\paleberry_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\parachute_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\parachute_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\particleaccelerator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\particleaccelerator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\petroleumcoke_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\petroleumcoke_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\plasmaspitterremains_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\plasmaspitterremains_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\plastic_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\plastic_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\plutoniumfuelrod_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\plutoniumfuelrod_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\plutoniumpellet_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\plutoniumpellet_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\plutoniumwaste_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\plutoniumwaste_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\polymerresin_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\polymerresin_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\portableminer_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\portableminer_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\powershard_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\powershard_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\pressureconversioncube_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\pressureconversioncube_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\pulsenobelisk_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\pulsenobelisk_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\purplepowerslug_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\purplepowerslug_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\quartzcrystal_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\quartzcrystal_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\quickwire_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\quickwire_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\radiocontrolunit_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\radiocontrolunit_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\rawquartz_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\rawquartz_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\refinery_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\refinery_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\reinforcedironplate_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\reinforcedironplate_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\resourcewellextractor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\resourcewellextractor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\resourcewellpressurizer_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\resourcewellpressurizer_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\rifleammo_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\rifleammo_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\rotor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\rotor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\rubber_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\rubber_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\screw_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\screw_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\shatterrebar_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\shatterrebar_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\silica_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\silica_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\smartplating_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\smartplating_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\smelter_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\smelter_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\smokelesspowder_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\smokelesspowder_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\solidbiofuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\solidbiofuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\stator_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\stator_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\steelbeam_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\steelbeam_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\steelingot_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\steelingot_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\steelpipe_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\steelpipe_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\stingerremains_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\stingerremains_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\stunrebar_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\stunrebar_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\sulfur_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\sulfur_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\sulfuricacid_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\sulfuricacid_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\supercomputer_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\supercomputer_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\thermalpropulsionrocket_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\thermalpropulsionrocket_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\turbofuel_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\turbofuel_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\turbomotor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\turbomotor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\turborifleammo_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\turborifleammo_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\uranium_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\uranium_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\uraniumfuelrod_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\uraniumfuelrod_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\uraniumwaste_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\uraniumwaste_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\versatileframework_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\versatileframework_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\water_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\water_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\waterextractor_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\waterextractor_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\wire_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\wire_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\wood_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\wood_256.png"
+    },
+    {
+      "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\Icons\\yellowpowerslug_256.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\yellowpowerslug_256.png"
+    },
+    {
       "Id": "C:\\Users\\radka\\Desktop\\testhost\\Client\\wwwroot\\images\\background.png",
       "PackagePath": "staticwebassets\\images\\background.png"
     },
